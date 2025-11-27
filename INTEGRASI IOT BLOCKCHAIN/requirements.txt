@@ -1,0 +1,6 @@
+streamlit
+flask
+paho-mqtt
+web3
+requests
+pandas
